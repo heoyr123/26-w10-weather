@@ -47,8 +47,8 @@
 
 ## 🔗 실행 및 배포 링크
 
-- Netlify 배포 URL: 
-- GitHub Pages 배포 URL: 
+- Netlify 배포 URL: (Netlify 대시보드에서 생성된 URL 입력)
+- GitHub Pages 배포 URL: https://heoyr123.github.io/26-w10-weather/
 
 ---
 
